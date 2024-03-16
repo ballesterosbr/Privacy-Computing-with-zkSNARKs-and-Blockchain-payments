@@ -112,7 +112,7 @@ $ snarkjs fflonk setup CNNx.r1cs powersOfTau28_hez_final_24.ptau.ptau CNNx_final
 $ snarkjs groth16 setup CNNx.r1cs powersOfTau28_hez_final_24.ptau.ptau CNNx_final.zkey
 ```
 
-For Groth16 an additional ceremony process for each circuit is required, which is not covered in this document. You can read more in the official documentation of [snarksjs](https://github.com/iden3/snarkjs?tab=readme-ov-file#groth16).
+For Groth16 an additional ceremony process for each circuit is required, which is not covered in this document. You can read more in the official documentation of [snarkjs](https://github.com/iden3/snarkjs?tab=readme-ov-file#groth16).
 
 Where `x` represents the number of the custom CNN model.
 
