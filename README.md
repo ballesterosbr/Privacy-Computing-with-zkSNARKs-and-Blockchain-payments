@@ -1,6 +1,6 @@
-# Privacy and Integrity in Computing Subscription Services with zk-SNARKs and Blockchain-Based Payments
+# Privacy and Integrity in Computing Subscription Services using zk-SNARKs and Blockchain-Based Payments
 
-In this repository, a collection of some processes and files used within the context of the paper Privacy and Integrity in Computing Subscription Services with zk-SNARKs and Blockchain-Based Payments are found.
+In this repository, a collection of some processes and files used within the context of the paper Privacy and Integrity in Computing Subscription Services using zk-SNARKs and Blockchain-Based Payments are found.
 
 ## Libraries
 
